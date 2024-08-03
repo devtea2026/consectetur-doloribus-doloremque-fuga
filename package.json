@@ -1,6 +1,6 @@
 {
   "name": "@devtea2026/consectetur-doloribus-doloremque-fuga",
-  "version": "3.11.80",
+  "version": "3.11.81",
   "description": " ",
   "main": "index.js",
   "author": "Antwii1",
@@ -684,5 +684,5 @@
   "bugs": {
     "url": "https://github.com/devtea2026/consectetur-doloribus-doloremque-fuga/issues"
   },
-  "packageManager": "yarn@4.3.1"
+  "packageManager": "yarn@4.4.0"
 }
